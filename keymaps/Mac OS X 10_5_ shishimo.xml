@@ -1,8 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ shishimo" parent="Mac OS X 10.5+">
   <action id="EditorCutLineEnd" />
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="ctrl d" />
-  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
