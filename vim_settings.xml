@@ -19,7 +19,7 @@
         <mark key="." line="40" column="7" />
         <mark key="[" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470405899461">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
         <mark key="]" line="355" column="57" />
         <mark key="^" line="355" column="57" />
         <mark key="." line="355" column="57" />
@@ -52,7 +52,12 @@
         <mark key="." line="125" column="21" />
         <mark key="[" line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470406018193" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="46" column="61" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470363222330">
         <mark key="'" line="75" column="2" />
         <mark key="]" line="109" column="71" />
@@ -75,8 +80,8 @@
       <jump line="25" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.create();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZGR5U2VydmljZSBzZXJ2aWNlID0gQnVkZHlTZXJ2aWNlRmFjdG9yeS5jcmVhdGUoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -85,13 +90,13 @@
         <text>.create();</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZGR5U2VydmljZSBzZXJ2aWNlID0gQnVkZHlTZXJ2aWNlRmFjdG9yeS5jcmVhdGUoKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU0hJU0hJTU8iLCAiVXNlciBSZXNwb25zZSA9ICIgKyByKTsK</text>
@@ -100,22 +105,22 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJldHJvZml0ID0gcmV0cm9maXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuCg==</text>
       </register>
     </registers>
     <search>
