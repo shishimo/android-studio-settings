@@ -3,8 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470264036177">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1470361180704">
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+        <mark key="[" line="35" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470361919740">
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="[" line="64" column="36" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470360730582">
         <mark key="'" line="65" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="[" line="99" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -12,8 +30,44 @@
       <jump line="65" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>B</text>
+      </register>
       <register name="/" type="4">
         <text>test</text>
+      </register>
+      <register name="-" type="4">
+        <text>B</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvKioK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBJbnZva2VkIHdoZW4gYSBuZXR3b3JrIGV4Y2VwdGlvbiBvY2N1cnJlZCB0YWxraW5nIHRvIHRoZSBzZXJ2ZXIgb3Igd2hlbiBhbiB1bmV4cGVjdGVkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBleGNlcHRpb24gb2NjdXJyZWQgY3JlYXRpbmcgdGhlIHJlcXVlc3Qgb3IgcHJvY2Vzc2luZyB0aGUgcmVzcG9uc2UuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBOb3RlOiBBbiBIVFRQIHJlc3BvbnNlIG1heSBzdGlsbCBpbmRpY2F0ZSBhbiBhcHBsaWNhdGlvbi1sZXZlbCBmYWlsdXJlIHN1Y2ggYXMgYSA0MDQgb3IgNTAwLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBDYWxsIHtAbGluayBSZXNwb25zZSNpc1N1Y2Nlc3NmdWwoKX0gdG8gZGV0ZXJtaW5lIGlmIHRoZSByZXNwb25zZSBpbmRpY2F0ZXMgc3VjY2Vzcy4K</text>
       </register>
     </registers>
     <search>
@@ -27,6 +81,9 @@
       <history-search>
         <entry>test</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -34,6 +91,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

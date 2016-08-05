@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ shishimo" parent="Mac OS X 10.5+">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
