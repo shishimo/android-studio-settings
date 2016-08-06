@@ -46,11 +46,11 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470418131141">
-        <mark key="]" line="84" column="7" />
-        <mark key="^" line="84" column="7" />
-        <mark key="." line="84" column="7" />
-        <mark key="[" line="82" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470488163344">
+        <mark key="'" line="117" column="64" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
         <mark key="]" line="44" column="0" />
@@ -78,37 +78,38 @@
       <jump line="32" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" />
       <jump line="35" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" />
       <jump line="25" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" />
+      <jump line="116" column="64" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLkFubm90YXRpb247Cg==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZGR5U2VydmljZSBzZXJ2aWNlID0gQnVkZHlTZXJ2aWNlRmFjdG9yeS5jcmVhdGUoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5Bbm5vdGF0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLkFubm90YXRpb247Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU0hJU0hJTU8iLCAiVXNlciBSZXNwb25zZSA9ICIgKyByKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1ZGR5U2VydmljZSBzZXJ2aWNlID0gQnVkZHlTZXJ2aWNlRmFjdG9yeS5jcmVhdGUoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGVzLnNldmVud2lzaC5idWRkeS53ZWJhcGkuQnVkZHlTZXJ2aWNlRmFjdG9yeTsK</text>
@@ -117,10 +118,10 @@
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
@@ -149,6 +150,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
