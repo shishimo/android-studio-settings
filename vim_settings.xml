@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
+        <mark key="[" line="5" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyService.java" timestamp="1470418182100">
         <mark key="'" line="22" column="2" />
         <mark key="]" line="31" column="52" />
@@ -10,20 +13,11 @@
         <mark key="." line="31" column="52" />
         <mark key="[" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
-        <mark key="[" line="5" column="38" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1470361180704">
         <mark key="]" line="40" column="7" />
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
         <mark key="[" line="35" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
-        <mark key="]" line="355" column="57" />
-        <mark key="^" line="355" column="57" />
-        <mark key="." line="355" column="57" />
-        <mark key="[" line="355" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" timestamp="1470405390453">
         <mark key="'" line="25" column="13" />
@@ -32,19 +26,18 @@
         <mark key="." line="62" column="0" />
         <mark key="[" line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
+        <mark key="]" line="355" column="57" />
+        <mark key="^" line="355" column="57" />
+        <mark key="." line="355" column="57" />
+        <mark key="[" line="355" column="35" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceInterface.java" timestamp="1470404539967">
         <mark key="'" line="9" column="3" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceFactory.java" timestamp="1470405199953" />
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceContainer.java" timestamp="1470405523052">
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="[" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470488940005">
         <mark key="'" line="120" column="64" />
@@ -53,11 +46,11 @@
         <mark key="." line="148" column="44" />
         <mark key="[" line="148" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="46" column="61" />
-        <mark key="." line="44" column="0" />
-        <mark key="[" line="44" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceContainer.java" timestamp="1470405523052">
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470489141251">
         <mark key="'" line="74" column="2" />
@@ -65,6 +58,12 @@
         <mark key="^" line="108" column="71" />
         <mark key="." line="100" column="20" />
         <mark key="[" line="100" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="46" column="61" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
       </file>
     </filemarks>
     <jumps>
