@@ -57,10 +57,11 @@
         <mark key="[" line="133" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/nav_header_member.xml" timestamp="1470881070583" />
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerViewItemDecoration.java" timestamp="1470885218655">
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="[" line="50" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerViewItemDecoration.java" timestamp="1470886186480">
+        <mark key="]" line="35" column="70" />
+        <mark key="^" line="35" column="70" />
+        <mark key="." line="35" column="70" />
+        <mark key="[" line="35" column="65" />
       </file>
       <file name="/a.dummy" timestamp="1470780669309">
         <mark key="[" line="0" column="0" />
@@ -146,46 +147,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>my_shape</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>my_shape</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbURpdmlkZXIuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbURpdmlkZXIuc2V0Qm91bmRzKDAsMTAwLDAsMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tRGl2aWRlci5zZXRCb3VuZHMobGVmdCwgdG9wLCByaWdodCwgYm90dG9tKTsK</text>
+        <text encoding="base64">ICAgICAgICBtRGl2aWRlciA9IGEuZ2V0RHJhd2FibGUoMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IGJvdHRvbSA9IHRvcCArIDU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGludCBnZXRPcGFjaXR5KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRSZWN0LnNldCgwLCAwLCAwLCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0Q29sb3JGaWx0ZXIoQ29sb3JGaWx0ZXIgY29sb3JGaWx0ZXIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRSZWN0LnNldCgwLCAwLCAwLCAxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
