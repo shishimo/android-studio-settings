@@ -6,18 +6,18 @@
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
-        <mark key="]" line="355" column="57" />
-        <mark key="^" line="355" column="57" />
-        <mark key="." line="355" column="57" />
-        <mark key="[" line="355" column="35" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" timestamp="1470405390453">
         <mark key="'" line="25" column="13" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="[" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
+        <mark key="]" line="355" column="57" />
+        <mark key="^" line="355" column="57" />
+        <mark key="." line="355" column="57" />
+        <mark key="[" line="355" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerViewDecoration.java" timestamp="1470883137798">
         <mark key="'" line="41" column="12" />
@@ -26,17 +26,17 @@
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_strike_item.xml" timestamp="1470882310059">
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="[" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/circular_progress.xml" timestamp="1470913966189">
         <mark key="'" line="24" column="4" />
         <mark key="]" line="22" column="28" />
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="[" line="20" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_strike_item.xml" timestamp="1470882310059">
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingView.java" timestamp="1470911688343">
         <mark key="'" line="14" column="13" />
@@ -63,24 +63,27 @@
         <mark key="." line="73" column="15" />
         <mark key="[" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" timestamp="1470918024965">
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="[" line="41" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" timestamp="1470918592630">
+        <mark key="'" line="43" column="12" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="[" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Blurry/example/src/main/java/jp/wasabeef/example/blurry/MainActivity.java" timestamp="1470917638960">
         <mark key="[" line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/BuddyActivity.java" timestamp="1470919161887" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceContainer.java" timestamp="1470405523052">
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="[" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470911744131">
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1470919188480">
+        <mark key="]" line="93" column="50" />
+        <mark key="." line="93" column="0" />
+        <mark key="[" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1470914274103">
         <mark key="]" line="35" column="37" />
@@ -100,7 +103,6 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/EmptyRecyclerView.java" timestamp="1470910229011" />
       <file name="/Dummy.txt" timestamp="1470913610276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,18 +150,18 @@
         <mark key="." line="208" column="9" />
         <mark key="[" line="203" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_main.xml" timestamp="1470879630808">
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="[" line="44" column="43" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/StrikeRecyclerViewAdapter.java" timestamp="1470883171257">
         <mark key="'" line="105" column="7" />
         <mark key="]" line="77" column="19" />
         <mark key="^" line="77" column="19" />
         <mark key="." line="77" column="19" />
         <mark key="[" line="79" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_main.xml" timestamp="1470879630808">
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+        <mark key="[" line="44" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -194,46 +196,47 @@
       <jump line="2" column="31" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/circular_progress.xml" />
       <jump line="25" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/circular_progress.xml" />
       <jump line="38" column="11" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2FkaW5nRGlhbG9nIGwgPSBuZXcgTG9hZGluZ0RpYWxvZyh0aGlzKTsK</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>:</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2FkaW5nRGlhbG9nIGwgPSBuZXcgTG9hZGluZ0RpYWxvZyh0aGlzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCbHVycnkud2l0aChjb250ZXh0KS5yYWRpdXMoMjUpLnNhbXBsaW5nKDIpLm9udG8oKFZpZXdHcm91cCkgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2FkaW5nRGlhbG9nIGwgPSBuZXcgTG9hZGluZ0RpYWxvZyh0aGlzKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaW1hZ2VWaWV3ID0gKEltYWdlVmlldylmaW5kVmlld0J5SWQoUi5pZC5sb2FkaW5nX2ltYWdlX3ZpZXcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaW1hZ2VWaWV3ID0gKEltYWdlVmlldylmaW5kVmlld0J5SWQoUi5pZC5sb2FkaW5nX2ltYWdlX3ZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIudigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaW1hZ2VWaWV3ID0gKEltYWdlVmlldylmaW5kVmlld0J5SWQoUi5pZC5pbWFnZV92aWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICBtSXNTaG93aW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaW1hZ2UgPSBuZXcgSW1hZ2VWaWV3KGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBY3Rpdml0eeihqOekugo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXRJbWFnZVJlc291cmNlKFIubWlwbWFwLmxvYWRpbmdfYmFja2dyb3VuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2FkaW5nRGlhbG9nIGwgPSBuZXcgTG9hZGluZ0RpYWxvZyh0aGlzKTsKICAgICAgICBsLnNob3coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnRvKChJbWFnZVZpZXcpaW1hZ2VWaWV3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
