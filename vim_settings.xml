@@ -74,6 +74,11 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="24" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyService.java" timestamp="1471229199126">
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1470928373739">
         <mark key="[" line="35" column="38" />
       </file>
@@ -194,47 +199,47 @@
       <jump line="42" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Created by shishimo on 16/08/11.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>Created by shishimo on 16/08/11.</text>
+        <text>limit</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7Cg==</text>
+        <text encoding="base64">ICAgIEBQT1NUKCJ2MS9zdHJpa2UiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLndhc2FiZWVmLmJsdXJyeS5CbHVycnk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYWxsPFN0cmlrZVJlc3BvbnNlPiBzdHJpa2UoQEJvZHkgKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAgdnZ2ID0gKFZpZXdHcm91cClmaW5kVmlld0J5SWQoUi5pZC5tYWluX2xheW91dCk7Cg==</text>
+        <text encoding="base64">ICAgIEBERUxFVEUoInYxL3N0cmlrZSIpCiAgICBwdWJsaWMgQ2FsbDxTdHJpa2VSZXNwb25zZT4gc3RyaWtlKEBRdWVyeSgib2Zmc2V0IikgaW50IG9mZnNldCwgQFF1ZXJ5KCJsaW1pdCIpIGludCBsaW1pdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLlByb2dyZXNzRGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYWxsPFN0cmlrZVJlc3BvbnNlPiBzdHJpa2UoQFF1ZXJ5KCJpZCIpIGludCBsaW1pdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgIEBERUxFVEUoInYxL3N0cmlrZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IGpwLndhc2FiZWVmLmJsdXJyeS5CbHVycnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uUmVzdW1lKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
