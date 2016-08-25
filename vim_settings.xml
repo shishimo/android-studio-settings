@@ -12,12 +12,6 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
-        <mark key="]" line="355" column="57" />
-        <mark key="^" line="355" column="57" />
-        <mark key="." line="355" column="57" />
-        <mark key="[" line="355" column="35" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/HTTPClientFactory.java" timestamp="1470405390453">
         <mark key="'" line="25" column="13" />
         <mark key="]" line="62" column="0" />
@@ -25,12 +19,11 @@
         <mark key="." line="62" column="0" />
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerItemDecoration.java" timestamp="1471268366973">
-        <mark key="'" line="42" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="57" column="4" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1470407748829">
+        <mark key="]" line="355" column="57" />
+        <mark key="^" line="355" column="57" />
+        <mark key="." line="355" column="57" />
+        <mark key="[" line="355" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerViewDecoration.java" timestamp="1470883137798">
         <mark key="'" line="41" column="12" />
@@ -38,6 +31,13 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="[" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerItemDecoration.java" timestamp="1471268366973">
+        <mark key="'" line="42" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="57" column="4" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/circular_progress.xml" timestamp="1470913966189">
         <mark key="'" line="24" column="4" />
@@ -102,7 +102,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1470928373739">
         <mark key="[" line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/list_empty_view.xml" timestamp="1471264460828" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceInterface.java" timestamp="1470404539967">
         <mark key="'" line="9" column="3" />
         <mark key="]" line="6" column="0" />
@@ -136,9 +135,6 @@
         <mark key="." line="41" column="0" />
         <mark key="[" line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" timestamp="1470926454833">
-        <mark key="'" line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/loading.xml" timestamp="1471264406734">
         <mark key="'" line="8" column="0" />
         <mark key="]" line="16" column="9" />
@@ -146,11 +142,8 @@
         <mark key="." line="16" column="9" />
         <mark key="[" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="46" column="61" />
-        <mark key="." line="44" column="0" />
-        <mark key="[" line="44" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" timestamp="1470926454833">
+        <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" timestamp="1471268673403">
         <mark key="'" line="85" column="40" />
@@ -159,6 +152,12 @@
         <mark key="." line="101" column="0" />
         <mark key="[" line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LogoutActivity.java" timestamp="1470407760291">
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="46" column="61" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470880337199">
         <mark key="'" line="30" column="0" />
         <mark key="]" line="208" column="9" />
@@ -166,18 +165,18 @@
         <mark key="." line="208" column="9" />
         <mark key="[" line="203" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_main.xml" timestamp="1470879630808">
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="[" line="44" column="43" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/StrikeRecyclerViewAdapter.java" timestamp="1470883171257">
         <mark key="'" line="105" column="7" />
         <mark key="]" line="77" column="19" />
         <mark key="^" line="77" column="19" />
         <mark key="." line="77" column="19" />
         <mark key="[" line="79" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_main.xml" timestamp="1470879630808">
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+        <mark key="[" line="44" column="43" />
       </file>
     </filemarks>
     <jumps>
