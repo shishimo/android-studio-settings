@@ -90,6 +90,12 @@
         <mark key="." line="80" column="33" />
         <mark key="[" line="80" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" timestamp="1472366742439">
+        <mark key="]" line="124" column="12" />
+        <mark key="^" line="124" column="12" />
+        <mark key="." line="124" column="12" />
+        <mark key="[" line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingDialog.java" timestamp="1471263814365">
         <mark key="'" line="44" column="0" />
         <mark key="]" line="32" column="9" />
@@ -130,6 +136,12 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1472366641056">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceInterface.java" timestamp="1470404539967">
         <mark key="'" line="9" column="3" />
@@ -269,16 +281,17 @@
       <jump line="26" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="29" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuc3VwcG9ydC5tdWx0aWRleC5NdWx0aURleEFwcGxpY2F0aW9uIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
