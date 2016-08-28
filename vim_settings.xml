@@ -119,8 +119,8 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1472088383895">
-        <mark key="'" line="84" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1472371709687">
+        <mark key="'" line="184" column="8" />
         <mark key="]" line="246" column="40" />
         <mark key="^" line="246" column="40" />
         <mark key="." line="246" column="40" />
@@ -210,6 +210,7 @@
         <mark key="." line="101" column="0" />
         <mark key="[" line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1472371749601" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470880337199">
         <mark key="'" line="30" column="0" />
         <mark key="]" line="208" column="9" />
@@ -285,6 +286,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
       <jump line="109" column="6" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" />
       <jump line="129" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" />
+      <jump line="245" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
+      <jump line="184" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
