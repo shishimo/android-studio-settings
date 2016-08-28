@@ -90,7 +90,8 @@
         <mark key="." line="80" column="33" />
         <mark key="[" line="80" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" timestamp="1472366742439">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" timestamp="1472371201294">
+        <mark key="'" line="129" column="0" />
         <mark key="]" line="124" column="12" />
         <mark key="^" line="124" column="12" />
         <mark key="." line="124" column="12" />
@@ -282,6 +283,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="29" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" />
       <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
+      <jump line="109" column="6" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
