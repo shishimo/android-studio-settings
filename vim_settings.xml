@@ -228,6 +228,12 @@
       <file name="/fragment.java" timestamp="1472374391525">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1472468569429">
+        <mark key="]" line="67" column="4" />
+        <mark key="^" line="67" column="4" />
+        <mark key="." line="67" column="4" />
+        <mark key="[" line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1472446283673">
         <mark key="'" line="148" column="15" />
         <mark key="]" line="76" column="68" />
@@ -343,13 +349,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>ListFragment</text>
       </register>
       <register name="/" type="4">
         <text>contain</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>ListFragment</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
