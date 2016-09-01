@@ -65,11 +65,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" timestamp="1472697691485">
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="15" column="33" />
-        <mark key="[" line="15" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" timestamp="1472698698451">
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="[" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" timestamp="1472363003712">
         <mark key="]" line="16" column="0" />
@@ -82,12 +82,12 @@
         <mark key="." line="25" column="39" />
         <mark key="[" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1472444806703">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1472698531922">
         <mark key="'" line="14" column="18" />
-        <mark key="]" line="26" column="34" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="34" />
-        <mark key="[" line="26" column="33" />
+        <mark key="]" line="64" column="15" />
+        <mark key="^" line="63" column="14" />
+        <mark key="." line="64" column="15" />
+        <mark key="[" line="64" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" timestamp="1472377557165">
         <mark key="'" line="19" column="27" />
@@ -232,11 +232,10 @@
       <file name="/fragment.java" timestamp="1472374391525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1472481745637">
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="66" column="10" />
-        <mark key="." line="68" column="0" />
-        <mark key="[" line="68" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1472699280158">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1472446283673">
         <mark key="'" line="148" column="15" />
@@ -352,47 +351,47 @@
       <jump line="148" column="15" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5wcmVmZXJlbmNlLmQ7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>contain</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>PreferenceFragmentCompat</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJwcmVmZXJlbmNlVGhlbWUiPkBzdHlsZS9QcmVmZXJlbmNlVGhlbWVPdmVybGF5PC9pdGVtPgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5wcmVmZXJlbmNlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5wcmVmZXJlbmNlLmQ7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxQcmVmZXJlbmNlQ2F0ZWdvcnkgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9pbmxpbmVfcHJlZmVyZW5jZXMiPgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5wcmVmZXJlbmNlLlByZWZlcmVuY2VGcmFnbWVudENvbXBhdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJTZXR0aW5nc1RoZW1lIiBwYXJlbnQ9IkFwcFRoZW1lLk5vQWN0aW9uQmFyIj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJwcmVmZXJlbmNlVGhlbWUiPkBzdHlsZS9QcmVmZXJlbmNlVGhlbWVPdmVybGF5PC9pdGVtPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJwcmVmZXJlbmNlVGhlbWUiPkBzdHlsZS9QcmVmZXJlbmNlVGhlbWVPdmVybGF5PC9pdGVtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJTZXR0aW5nc1RoZW1lIiBwYXJlbnQ9IkFwcFRoZW1lLk5vQWN0aW9uQmFyIj4K</text>
       </register>
     </registers>
     <search>
