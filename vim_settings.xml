@@ -66,11 +66,11 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" timestamp="1472904314756">
-        <mark key="'" line="65" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" timestamp="1472904993926">
+        <mark key="'" line="28" column="30" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" timestamp="1472902881826">
         <mark key="]" line="16" column="38" />
@@ -359,46 +359,48 @@
       <jump line="32" column="46" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
       <jump line="22" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" />
       <jump line="19" column="11" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
+      <jump line="28" column="30" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" />
+      <jump line="33" column="33" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpkaWFsb2dUaXRsZT0i44K/44Kk44OI44OrIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>contain</text>
       </register>
       <register name="-" type="4">
-        <text>pref_sync_frequency_titles</text>
+        <text>DialogFragmentCompat</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbnRyaWVzPSJAYXJyYXkvdGVzdF9hcnJheSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbnRyeVZhbHVlcz0iQGFycmF5L3Rlc3RfYXJyYXkiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpkaWFsb2dUaXRsZT0i44K/44Kk44OI44OrIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5wcmVmZXJlbmNlLlByZWZlcmVuY2VGcmFnbWVudENvbXBhdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbnRyeVZhbHVlcz0iQGFycmF5L3Rlc3RfYXJyYXkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDprZXk9ImFsYXJtX2xpc3QiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDprZXk9Im11bHRpX3NlbGVjdF9saXN0X3ByZWZlcmVuY2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iVGl0bGUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iTXVsdGlTZWxlY3RMaXN0UHJlZmVyZW5jZVRJVExFIgo=</text>
+        <text encoding="base64">ICAgICAgICAJYW5kcm9pZDplbnRyaWVzPSJAYXJyYXkvdGVzdF9hcnJheSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdW1tYXJ5PSJNdWx0aVNlbGVjdExpc3RQcmVmZXJlbmNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbnRyeVZhbHVlcz0iQGFycmF5L3Rlc3RfYXJyYXkiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TXVsdGlTZWxlY3RMaXN0UHJlZmVyZW5jZURpYWxvZ0ZyYWdtZW50Q29tcGF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8TXVsdGlTZWxlY3RMaXN0UHJlZmVyZW5jZQo=</text>
@@ -439,6 +441,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
