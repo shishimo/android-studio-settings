@@ -109,12 +109,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" timestamp="1472377557165">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" timestamp="1473337098706">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="101" column="32" />
-        <mark key="]" line="103" column="54" />
+        <mark key="[" line="154" column="48" />
+        <mark key="]" line="154" column="48" />
         <mark key="^" line="103" column="54" />
-        <mark key="." line="103" column="54" />
+        <mark key="." line="154" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/UserManager.java" timestamp="1470880337199">
         <mark key="'" line="30" column="0" />
@@ -164,11 +164,11 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" timestamp="1472373287696">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="39" />
-        <mark key="^" line="90" column="39" />
-        <mark key="." line="90" column="39" />
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="91" column="39" />
+        <mark key="^" line="91" column="39" />
+        <mark key="." line="91" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1472969642541">
         <mark key="'" line="25" column="13" />
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>silhouette</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>silhouette</text>
       </register>
       <register name="/" type="4">
         <text>cirl</text>
