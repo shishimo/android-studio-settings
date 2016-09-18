@@ -109,8 +109,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceCallback.java" timestamp="1470361532388">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" timestamp="1473337098706">
-        <mark key="'" line="19" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" timestamp="1474163296349">
+        <mark key="'" line="97" column="0" />
         <mark key="[" line="154" column="48" />
         <mark key="]" line="154" column="48" />
         <mark key="^" line="103" column="54" />
@@ -164,11 +164,11 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" timestamp="1472373287696">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="91" column="29" />
-        <mark key="]" line="91" column="39" />
-        <mark key="^" line="91" column="39" />
-        <mark key="." line="91" column="39" />
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="90" column="39" />
+        <mark key="^" line="90" column="39" />
+        <mark key="." line="90" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1472969642541">
         <mark key="'" line="25" column="13" />
@@ -364,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="29" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_main.xml" />
       <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
@@ -464,6 +463,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_message.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/corsor_edit_text.xml" />
       <jump line="36" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
