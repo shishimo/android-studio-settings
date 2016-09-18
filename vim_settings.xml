@@ -64,12 +64,18 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" timestamp="1474203670470">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="55" column="59" />
-        <mark key="." line="55" column="59" />
-        <mark key="^" line="55" column="59" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/model/User.java" timestamp="1474209096560">
+        <mark key="[" line="136" column="32" />
+        <mark key="]" line="136" column="43" />
+        <mark key="." line="136" column="43" />
+        <mark key="^" line="136" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" timestamp="1474209145137">
+        <mark key="'" line="78" column="23" />
+        <mark key="[" line="44" column="65" />
+        <mark key="]" line="44" column="66" />
+        <mark key="." line="44" column="66" />
+        <mark key="^" line="44" column="66" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1472376459233">
         <mark key="'" line="427" column="0" />
@@ -111,12 +117,12 @@
         <mark key="^" line="14" column="46" />
         <mark key="." line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" timestamp="1474202931664">
-        <mark key="'" line="163" column="4" />
-        <mark key="[" line="163" column="5" />
-        <mark key="]" line="164" column="5" />
-        <mark key="^" line="164" column="5" />
-        <mark key="." line="164" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" timestamp="1474209301680">
+        <mark key="'" line="169" column="4" />
+        <mark key="[" line="92" column="33" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="92" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/message_view_left.xml" timestamp="1472973103110">
         <mark key="'" line="4" column="0" />
@@ -148,12 +154,12 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" timestamp="1474202093626">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" timestamp="1474208507773">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Banner/app/src/main/res/layout/activity_main.xml" timestamp="1472133183066">
         <mark key="[" line="15" column="38" />
@@ -353,12 +359,12 @@
         <mark key="." line="61" column="53" />
         <mark key="^" line="61" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" timestamp="1474203736730">
-        <mark key="'" line="97" column="6" />
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" timestamp="1474209214376">
+        <mark key="'" line="98" column="6" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/colors.xml" timestamp="1472983173696">
         <mark key="[" line="5" column="25" />
@@ -404,16 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="60" column="54" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="97" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="169" column="11" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="191" column="30" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="14" column="18" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
-      <jump line="148" column="15" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" />
-      <jump line="37" column="50" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" />
-      <jump line="71" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/xml/settings.xml" />
-      <jump line="33" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" />
       <jump line="32" column="46" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
       <jump line="22" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" />
       <jump line="19" column="11" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
@@ -493,9 +489,7 @@
       <jump line="228" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="260" column="7" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="144" column="14" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" />
-      <jump line="2" column="5" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
       <jump line="43" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
-      <jump line="6" column="3" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
       <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
       <jump line="44" column="6" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" />
       <jump line="29" column="21" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" />
@@ -504,46 +498,58 @@
       <jump line="163" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" />
       <jump line="27" column="28" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" />
       <jump line="93" column="6" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" />
+      <jump line="2" column="5" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="47" column="1" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="9" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="6" column="18" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="1" column="5" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="42" column="2" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="22" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" />
+      <jump line="42" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" />
+      <jump line="24" column="47" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" />
+      <jump line="61" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>match_parent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>user_image_view_pager</text>
       </register>
       <register name="/" type="4">
         <text>other</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGlkID09IFIuaWQubWVudV9saWtlKSB7CiAgICAgICAgICAgIGZyYWdtZW50ID0gU3RyaWtlRnJhZ21lbnQubmV3SW5zdGFuY2UoKTsKICAgICAgICAgICAgY3VycmVudEZyYWdtZW50VGFnID0gU3RyaWtlRnJhZ21lbnQuVEFHOwo=</text>
+        <text encoding="base64">ICAgICAgICBWaWV3UGFnZXIgdmlld1BhZ2VyID0gKFZpZXdQYWdlcikgdmlldy5maW5kVmlld0J5SWQoUi5pZC51c2VyX2ltYWdlX3ZpZXdfcGFnZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dCBjID0gZ2V0Q29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBECg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGF2YXRhcl9zdWJfZmlsZV9pZC5zaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtVXNlclBob3RvUGFnZXIgPSAoVmlld1BhZ2VyKWZpbmRWaWV3QnlJZChSLmlkLnVzZXJfaW1hZ2Vfdmlld19wYWdlcik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gKFN0cmluZylhdmF0YXJfc3ViX2ZpbGVfaWQuZ2V0KGkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiICIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChlbGVtZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZpZXdQYWdlciBwaG90bwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
