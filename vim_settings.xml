@@ -202,6 +202,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1474170227499">
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceContainer.java" timestamp="1470405523052">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="25" column="0" />
@@ -235,7 +240,7 @@
         <mark key="^" line="70" column="7" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1474168349984">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1474170212382">
         <mark key="'" line="148" column="15" />
         <mark key="[" line="76" column="68" />
         <mark key="]" line="76" column="68" />
@@ -266,8 +271,8 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="53" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1474168588301">
-        <mark key="'" line="84" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" timestamp="1474170142814">
+        <mark key="'" line="212" column="0" />
         <mark key="[" line="221" column="9" />
         <mark key="]" line="222" column="9" />
         <mark key="." line="222" column="9" />
@@ -339,6 +344,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MainFragmentStatePagerAdapter.java" timestamp="1474169963774" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/colors.xml" timestamp="1472983173696">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
@@ -479,10 +485,10 @@
       <jump line="60" column="35" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" />
       <jump line="149" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" />
       <jump line="98" column="22" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/HomeFragment.java" />
-      <jump line="212" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="174" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="87" column="32" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="84" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
