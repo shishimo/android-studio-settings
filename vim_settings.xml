@@ -64,18 +64,18 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/model/User.java" timestamp="1474209096560">
-        <mark key="[" line="136" column="32" />
-        <mark key="]" line="136" column="43" />
-        <mark key="." line="136" column="43" />
-        <mark key="^" line="136" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/model/User.java" timestamp="1474209705836">
+        <mark key="[" line="149" column="17" />
+        <mark key="]" line="149" column="30" />
+        <mark key="." line="149" column="30" />
+        <mark key="^" line="149" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" timestamp="1474209145137">
-        <mark key="'" line="78" column="23" />
-        <mark key="[" line="44" column="65" />
-        <mark key="]" line="44" column="66" />
-        <mark key="." line="44" column="66" />
-        <mark key="^" line="44" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" timestamp="1474209792957">
+        <mark key="'" line="80" column="23" />
+        <mark key="[" line="87" column="35" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="87" column="11" />
+        <mark key="^" line="87" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/LoginActivity.java" timestamp="1472376459233">
         <mark key="'" line="427" column="0" />
@@ -154,12 +154,12 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" timestamp="1474208507773">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/view_user_main.xml" timestamp="1474209863540">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="42" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
         <mark key="^" line="38" column="42" />
-        <mark key="." line="38" column="42" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Banner/app/src/main/res/layout/activity_main.xml" timestamp="1472133183066">
         <mark key="[" line="15" column="38" />
@@ -269,7 +269,7 @@
         <mark key="^" line="72" column="93" />
         <mark key="." line="76" column="68" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/StrikeRecyclerViewAdapter.java" timestamp="1472088413907">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/StrikeRecyclerViewAdapter.java" timestamp="1474209433756">
         <mark key="'" line="105" column="7" />
         <mark key="[" line="76" column="31" />
         <mark key="]" line="76" column="36" />
@@ -359,12 +359,12 @@
         <mark key="." line="61" column="53" />
         <mark key="^" line="61" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" timestamp="1474209214376">
-        <mark key="'" line="98" column="6" />
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_home.xml" timestamp="1474210192744">
+        <mark key="'" line="57" column="6" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/colors.xml" timestamp="1472983173696">
         <mark key="[" line="5" column="25" />
@@ -512,53 +512,53 @@
       <jump line="61" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/UserMainView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>user_image_view_pager</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>other</text>
+        <text>picaso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3UGFnZXIgdmlld1BhZ2VyID0gKFZpZXdQYWdlcikgdmlldy5maW5kVmlld0J5SWQoUi5pZC51c2VyX2ltYWdlX3ZpZXdfcGFnZXIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0U3ViQXZhdGFyVVJMcygpIHsKICAgICAgICBMaXN0PFN0cmluZz4gdXJscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGk9MDsgaTxnZXRTdWJBdmF0YXJOdW0oKTsgaSsrKSB7CiAgICAgICAgICAgIHVybHMuYWRkKCBVUkwucGhvdG8gKyAiLyIgKyAoU3RyaW5nKWF2YXRhcl9zdWJfZmlsZV9pZC5nZXQoaSkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdXJsczsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGF2YXRhcl9zdWJfZmlsZV9pZC5zaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gKFN0cmluZylhdmF0YXJfc3ViX2ZpbGVfaWQuZ2V0KGkpOwo=</text>
+        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJlbmQiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0icmlnaHQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChlbGVtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9waG90b3MiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>other</last-search>
+      <last-search>picaso</last-search>
       <last-offset />
-      <last-pattern>other</last-pattern>
+      <last-pattern>picaso</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -579,6 +579,7 @@
         <entry>switch</entry>
         <entry>Other</entry>
         <entry>other</entry>
+        <entry>picaso</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
