@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" timestamp="1474267331543">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" timestamp="1474371774459">
+        <mark key="'" line="59" column="3" />
+        <mark key="[" line="55" column="81" />
+        <mark key="]" line="55" column="81" />
+        <mark key="." line="55" column="81" />
+        <mark key="^" line="55" column="81" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_my_profile.xml" timestamp="1474264659343">
         <mark key="[" line="11" column="47" />
@@ -71,12 +71,12 @@
         <mark key="^" line="117" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" timestamp="1474269688956">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" timestamp="1474371486680">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="69" column="35" />
-        <mark key="]" line="69" column="36" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="36" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/loading.xml" timestamp="1471264406734">
         <mark key="'" line="8" column="0" />
@@ -187,7 +187,6 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/BuddyActivity.java" timestamp="1474248916963" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/message_view_date_cell.xml" timestamp="1472973249128">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="23" column="43" />
@@ -242,7 +241,6 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1474241508510" />
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1474201186774">
         <mark key="'" line="148" column="14" />
         <mark key="[" line="147" column="25" />
@@ -549,43 +547,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>picaso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnV0dG9uX3NlbmQiPlNlbmQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB1c2VyTmFtZVRleHRWaWV3ID0gKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLnVzZXJfbmFtZSk7CiAgICAgICAgaWYgKHVzZXJOYW1lVGV4dFZpZXcgIT0gbnVsbCkgewogICAgICAgICAgICB1c2VyTmFtZVRleHRWaWV3LnNldFRleHQobVVzZXIuZ2V0TmFtZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2VCdXR0b24K</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC91c2VyX3Bob3RvX251bSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
