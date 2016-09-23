@@ -281,12 +281,12 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" timestamp="1474639743044">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" timestamp="1474643180975">
         <mark key="'" line="54" column="27" />
         <mark key="[" line="98" column="12" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="70" column="7" />
-        <mark key="." line="101" column="0" />
+        <mark key="]" line="185" column="36" />
+        <mark key="^" line="185" column="36" />
+        <mark key="." line="185" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/OthersFragment.java" timestamp="1474200796160">
         <mark key="'" line="148" column="15" />
