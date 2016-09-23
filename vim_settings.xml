@@ -281,8 +281,8 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" timestamp="1474166236895">
-        <mark key="'" line="124" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" timestamp="1474638430750">
+        <mark key="'" line="54" column="27" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="^" line="70" column="7" />
@@ -462,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_message.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/corsor_edit_text.xml" />
       <jump line="36" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" />
       <jump line="97" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/MainFragment.java" />
       <jump line="186" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
@@ -562,6 +560,8 @@
       <jump line="232" column="50" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="242" column="14" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
       <jump line="111" column="32" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/model/User.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" />
+      <jump line="54" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/StrikeFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -571,7 +571,7 @@
         <text>Si</text>
       </register>
       <register name="/" type="4">
-        <text>Profile</text>
+        <text>Loading</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlbnQucHV0RXh0cmEoTWVzc2FnZUFjdGl2aXR5LktFWV9VU0VSLCB1c2VyKTsKICAgICAgICBzdGFydEFjdGl2aXR5Rm9yUmVzdWx0KGludGVudCwgTUVTU0FHRV9SRVFVRVNUX0NPREUpOwo=</text>
@@ -608,15 +608,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Profile</last-search>
+      <last-search>Loading</last-search>
       <last-offset />
-      <last-pattern>Profile</last-pattern>
+      <last-pattern>Loading</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contaner</entry>
         <entry>contain</entry>
         <entry>repo</entry>
         <entry>setMessage</entry>
@@ -636,6 +635,7 @@
         <entry>pushEx</entry>
         <entry>Intent</entry>
         <entry>Profile</entry>
+        <entry>Loading</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
