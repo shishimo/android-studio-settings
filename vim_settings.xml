@@ -240,12 +240,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" timestamp="1474789492577">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="44" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" timestamp="1474792026297">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerItemDecoration.java" timestamp="1471268366973">
         <mark key="'" line="42" column="0" />
@@ -301,12 +300,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474789226028">
-        <mark key="'" line="30" column="23" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="62" column="50" />
-        <mark key="^" line="62" column="50" />
-        <mark key="." line="62" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474813140226">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+        <mark key="^" line="71" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" timestamp="1472984340626">
         <mark key="'" line="39" column="23" />
@@ -391,6 +390,11 @@
         <mark key="^" line="133" column="55" />
         <mark key="." line="133" column="55" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/rounded_corner_button.xml" timestamp="1474792855894">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/message_shape_right.xml" timestamp="1472968821782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -471,12 +475,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1474786454904">
-        <mark key="'" line="63" column="3" />
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="152" />
-        <mark key="." line="59" column="152" />
-        <mark key="^" line="59" column="152" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1474792441789">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/corsor_edit_text.xml" timestamp="1472983152433">
         <mark key="'" line="1" column="0" />
@@ -504,11 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_my_profile.xml" />
-      <jump line="99" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MyProfileActivity.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="15" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
       <jump line="43" column="18" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_my_profile.xml" />
       <jump line="10" column="3" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_my_profile.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" />
@@ -604,61 +603,65 @@
       <jump line="58" column="3" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="5" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" />
       <jump line="38" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" />
+      <jump line="21" column="25" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" />
+      <jump line="42" column="38" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" />
+      <jump line="68" column="14" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
+      <jump line="59" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>colorAccent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0cm9rZVdpZHRoIj4xZHA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpyYWRpdXMiPjEwZHA8L2l0ZW0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>colorAccent</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>Login</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNDY1ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdHV0b3JpYWxfbGluZWFybGF5b3V0Ij4K</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0cm9rZVdpZHRoIj4xZHA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpyYWRpdXMiPjEwZHA8L2l0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdHV0b3JpYWxfbGluZWFybGF5b3V0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9jb2xvckFjY2VudCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNvbGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90dXRvcmlhbF9saW5lYXJsYXlvdXQiCg==</text>
+        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmJhY2tncm91bmQiPkBjb2xvci93aGl0ZTwvaXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+QGNvbG9yL2dyYXk8L2l0ZW0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjE1ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj4xNnNwPC9pdGVtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIK</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJCdWRkeS5UdXRvcmlhbC5CdXR0b24uTm90Tm93IiBwYXJlbnQ9IkJ1ZGR5LkJhc2UuQnV0dG9uIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Login</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>Login</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setMessage</entry>
         <entry>face</entry>
         <entry>sil</entry>
         <entry>cirl</entry>
@@ -678,6 +681,7 @@
         <entry>Profile</entry>
         <entry>Strike</entry>
         <entry>Login</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
