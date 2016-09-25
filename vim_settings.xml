@@ -260,6 +260,12 @@
         <mark key="^" line="90" column="39" />
         <mark key="." line="90" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/button_negative.xml" timestamp="1474814551147">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="74" />
+        <mark key="." line="6" column="74" />
+        <mark key="^" line="6" column="74" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" timestamp="1474783833233">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="12" column="0" />
@@ -300,12 +306,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474813140226">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="71" column="11" />
-        <mark key="." line="71" column="11" />
-        <mark key="^" line="71" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474814318232">
+        <mark key="'" line="72" column="12" />
+        <mark key="[" line="67" column="57" />
+        <mark key="]" line="67" column="64" />
+        <mark key="." line="67" column="64" />
+        <mark key="^" line="67" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" timestamp="1472984340626">
         <mark key="'" line="39" column="23" />
@@ -353,7 +359,13 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474784146333">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/button_positive.xml" timestamp="1474814132433">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="5" column="53" />
+        <mark key="^" line="4" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474814120666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/MessageView.java" timestamp="1472968324440">
@@ -390,10 +402,11 @@
         <mark key="^" line="133" column="55" />
         <mark key="." line="133" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/rounded_corner_button.xml" timestamp="1474792855894">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/rounded_corner_button.xml" timestamp="1474814093220">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/message_shape_right.xml" timestamp="1472968821782">
         <mark key="[" line="0" column="0" />
@@ -610,44 +623,44 @@
       <jump line="59" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0cm9rZVdpZHRoIj4xZHA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpyYWRpdXMiPjEwZHA8L2l0ZW0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pjwvc3Ryb2tlPg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">Pjwvc3Ryb2tlPg==</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnN0cm9rZVdpZHRoIj4xZHA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpyYWRpdXMiPjEwZHA8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNvbGlkIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci93aGl0ZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9jb2xvckFjY2VudCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNvbGlkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmJhY2tncm91bmQiPkBjb2xvci93aGl0ZTwvaXRlbT4K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLQogIH4gLyoqCiAgfiAgKiBDb3B5cmlnaHQgKGMpIDIwMTYuIFNoaW4naWNoaXJvIFNoaW1vZGEuIEFsbCBSaWdodHMgUmVzZXJ2ZWQuCiAgfiAgKi8KICAtLT4KCjxzZWxlY3RvciB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiPgoKPC9zZWxlY3Rvcj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dG9wTGVmdFJhZGl1cz0iNWRwIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Ym90dG9tTGVmdFJhZGl1cz0iNWRwIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Ym90dG9tUmlnaHRSYWRpdXM9IjVkcCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dG9wUmlnaHRSYWRpdXM9IjVkcCIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+QGNvbG9yL2dyYXk8L2l0ZW0+Cg==</text>
+        <text encoding="base64">PC9zZWxlY3Rvcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj4xNnNwPC9pdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJCdWRkeS5UdXRvcmlhbC5CdXR0b24uTm90Tm93IiBwYXJlbnQ9IkJ1ZGR5LkJhc2UuQnV0dG9uIj4K</text>
+        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
