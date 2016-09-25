@@ -31,11 +31,11 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/tutorial_linearlayout.xml" timestamp="1474788000858">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/tutorial_linearlayout.xml" timestamp="1474789867624">
+        <mark key="[" line="6" column="62" />
+        <mark key="]" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+        <mark key="^" line="6" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/common/BuddyConstants.java" timestamp="1474778882697" />
       <file name="$USER_HOME$/AndroidStudioProjects/Banner/app/src/main/java/com/shishimo/banner/MainActivity.java" timestamp="1472133733589">
@@ -243,12 +243,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" timestamp="1474787983974">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="37" column="14" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" timestamp="1474789492577">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="44" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerItemDecoration.java" timestamp="1471268366973">
         <mark key="'" line="42" column="0" />
@@ -304,12 +304,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474784936679">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1474789226028">
         <mark key="'" line="30" column="23" />
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="56" />
-        <mark key="." line="57" column="56" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="50" />
+        <mark key="^" line="62" column="50" />
+        <mark key="." line="62" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" timestamp="1472984340626">
         <mark key="'" line="39" column="23" />
@@ -611,43 +611,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>colorAccent</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>colorAccent</text>
       </register>
       <register name="/" type="4">
         <text>Login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNvbGlkIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci93aGl0ZSIvPgo=</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNDY1ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdHV0b3JpYWxfbGluZWFybGF5b3V0Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdHV0b3JpYWxfbGluZWFybGF5b3V0Ij4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90dXRvcmlhbF9saW5lYXJsYXlvdXQiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjE1ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90dXRvcmlhbF9saW5lYXJsYXlvdXQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNpemUgYW5kcm9pZDp3aWR0aD0iMTAwZHAiIGFuZHJvaWQ6aGVpZ2h0PSIxMDBkcCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdWRkeSB3aWxsIHNlYXJjaCB5b3VyIHByb3NwZWN0aXZlIHBhcnRuZXJzIG5lYXIgeW91LiBTbyBwbGVhc2UgYWxsb3cgQnVkZHkgdG8gZ2V0IHlvdXIgbG9jYXRpb24gaW5mb21hdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjE1ZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90dXRvcmlhbF9saW5lYXJsYXlvdXQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
