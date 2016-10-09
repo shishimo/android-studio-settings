@@ -300,6 +300,13 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1475991816594">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="49" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="34" column="49" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1474201186774">
         <mark key="'" line="148" column="14" />
         <mark key="[" line="147" column="25" />
@@ -372,7 +379,7 @@
         <mark key="." line="5" column="53" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474814120666">
+      <file name="/Dummy.txt" timestamp="1475991343103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/MessageView.java" timestamp="1472968324440">
@@ -542,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="48" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" />
       <jump line="36" column="7" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" />
       <jump line="29" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/ProfileActivity.java" />
       <jump line="271" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/MainActivity.java" />
@@ -642,16 +648,17 @@
       <jump line="95" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
       <jump line="98" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>play-services</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld1BhZ2VyLnNldEN1cnJlbnRJdGVtKDEsIHRydWUpOwo=</text>
@@ -688,15 +695,14 @@
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>play-services</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>play-services</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>face</entry>
         <entry>sil</entry>
         <entry>cirl</entry>
         <entry>switch</entry>
@@ -716,6 +722,7 @@
         <entry>Strike</entry>
         <entry>Login</entry>
         <entry>button</entry>
+        <entry>play-services</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
