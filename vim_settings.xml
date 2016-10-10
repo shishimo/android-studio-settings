@@ -324,12 +324,10 @@
         <mark key="^" line="134" column="20" />
         <mark key="." line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476109164077">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="89" column="36" />
-        <mark key="]" line="89" column="63" />
-        <mark key="^" line="89" column="63" />
-        <mark key="." line="89" column="63" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476110359458">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="77" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/webapi/BuddyServiceContainer.java" timestamp="1470405523052">
         <mark key="[" line="24" column="8" />
@@ -586,12 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="43" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialLocationFragment.java" />
-      <jump line="87" column="49" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialLocationFragment.java" />
-      <jump line="20" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" />
-      <jump line="32" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" />
-      <jump line="93" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialLocationFragment.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialLocationFragment.java" />
       <jump line="54" column="29" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
       <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" />
       <jump line="23" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" />
@@ -686,37 +678,43 @@
       <jump line="96" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
       <jump line="37" column="33" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
       <jump line="122" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="60" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="73" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="74" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="94" column="65" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="38" column="47" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="71" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQmlydGhkYXlFZGl0VGV4dCA9IChFZGl0VGV4dCkgdi5maW5kVmlld0J5SWQoUi5pZC5iaXJ0eWRheUVkaXRUZXh0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>mDateSetListener</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bUNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBtQmlydGhkYXlFZGl0VGV4dCA9IChFZGl0VGV4dCkgdi5maW5kVmlld0J5SWQoUi5pZC5iaXJ0eWRheUVkaXRUZXh0KTsKCiAgICAgICAgaWYgKG1CaXJ0aGRheUVkaXRUZXh0ICE9IG51bGwpIHsKCiAgICAgICAgICAgIG1EYXRlU2V0TGlzdGVuZXIgPSBuZXcgRGF0ZVBpY2tlckRpYWxvZy5PbkRhdGVTZXRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25EYXRlU2V0KERhdGVQaWNrZXIgdmlldywgaW50IHllYXIsIGludCBtb250aE9mWWVhciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgZGF5T2ZNb250aCkgewogICAgICAgICAgICAgICAgICAgIExvZy5kKCJTSElTSElNTyIsICJkYXRlIHNldCIpOwogICAgICAgICAgICAgICAgICAgIG1DYWxlbmRhci5zZXQoQ2FsZW5kYXIuWUVBUiwgeWVhcik7CiAgICAgICAgICAgICAgICAgICAgbUNhbGVuZGFyLnNldChDYWxlbmRhci5NT05USCwgbW9udGhPZlllYXIpOwogICAgICAgICAgICAgICAgICAgIG1DYWxlbmRhci5zZXQoQ2FsZW5kYXIuREFZX09GX01PTlRILCBkYXlPZk1vbnRoKTsKCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG15Rm9ybWF0ID0gIk1NL2RkL3l5eXkiOyAvL0luIHdoaWNoIHlvdSBuZWVkIHB1dCBoZXJlCiAgICAgICAgICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdChteUZvcm1hdCwgTG9jYWxlLlVTKTsKICAgICAgICAgICAgICAgICAgICBtQmlydGhkYXlFZGl0VGV4dC5zZXRUZXh0KHNkZi5mb3JtYXQobUNhbGVuZGFyLmdldFRpbWUoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgbUJpcnRoZGF5RWRpdFRleHQuc2V0T25DbGlja0xpc3RlbmVyKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHZpZXcpIHsKICAgICAgICAgICAgICAgICAgICBpZiAobURhdGVQaWNrZXJEaWFsb2cgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtRGF0ZVBpY2tlckRpYWxvZyA9IG5ldyBEYXRlUGlja2VyRGlhbG9nKGdldEFjdGl2aXR5KCksIG1EYXRlU2V0TGlzdGVuZXIsIDE5ODAsIDQsIDEpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBtRGF0ZVBpY2tlckRpYWxvZy5zaG93KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQmlydGhkYXlFZGl0VGV4dCA9IChFZGl0VGV4dCkgdi5maW5kVmlld0J5SWQoUi5pZC5iaXJ0eWRheUVkaXRUZXh0KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdXBlci5vblN0YXJ0KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgbUNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBtQmlydGhkYXlFZGl0VGV4dCA9IChFZGl0VGV4dCkgdi5maW5kVmlld0J5SWQoUi5pZC5iaXJ0eWRheUVkaXRUZXh0KTsKCiAgICAgICAgaWYgKG1CaXJ0aGRheUVkaXRUZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgbUJpcnRoZGF5RWRpdFRleHQuc2V0S2V5TGlzdGVuZXIobnVsbCk7CiAgICAgICAgICAgIG1EYXRlU2V0TGlzdGVuZXIgPSBuZXcgRGF0ZVBpY2tlckRpYWxvZy5PbkRhdGVTZXRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25EYXRlU2V0KERhdGVQaWNrZXIgdmlldywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgeWVhciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbW9udGhPZlllYXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGRheU9mTW9udGgpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU0hJU0hJTU8iLCAiZGF0ZSBzZXQiKTsKICAgICAgICAgICAgICAgICAgICBtQ2FsZW5kYXIuc2V0KENhbGVuZGFyLllFQVIsIHllYXIpOwogICAgICAgICAgICAgICAgICAgIG1DYWxlbmRhci5zZXQoQ2FsZW5kYXIuTU9OVEgsIG1vbnRoT2ZZZWFyKTsKICAgICAgICAgICAgICAgICAgICBtQ2FsZW5kYXIuc2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCwgZGF5T2ZNb250aCk7CgogICAgICAgICAgICAgICAgICAgIFN0cmluZyBteUZvcm1hdCA9ICJNTS9kZC95eXl5IjsgLy9JbiB3aGljaCB5b3UgbmVlZCBwdXQgaGVyZQogICAgICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQobXlGb3JtYXQsIExvY2FsZS5VUyk7CiAgICAgICAgICAgICAgICAgICAgbUJpcnRoZGF5RWRpdFRleHQuc2V0VGV4dChzZGYuZm9ybWF0KG1DYWxlbmRhci5nZXRUaW1lKCkpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIG1CaXJ0aGRheUVkaXRUZXh0LnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2aWV3KSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlNISVNISU1PIiwgIkJpcnRoZGF5IEVkaXRUZXh0IENsaWNrZWQiKTsKICAgICAgICAgICAgICAgICAgICBpZiAobURhdGVQaWNrZXJEaWFsb2cgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtRGF0ZVBpY2tlckRpYWxvZyA9IG5ldyBEYXRlUGlja2VyRGlhbG9nKGdldEFjdGl2aXR5KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbURhdGVTZXRMaXN0ZW5lciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTgwLCA0LCAxKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgbURhdGVQaWNrZXJEaWFsb2cuc2hvdygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtQ2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU0hJU0hJTU8iLCAiZGF0ZSBzZXQiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtQmlydGhkYXlFZGl0VGV4dCA9IChFZGl0VGV4dCkgdi5maW5kVmlld0J5SWQoUi5pZC5iaXJ0eWRheUVkaXRUZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -725,22 +723,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>mDateSetListener</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>mDateSetListener</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>picaso</entry>
         <entry>getBody</entry>
         <entry>Message</entry>
         <entry>ProfileAc</entry>
@@ -760,6 +757,7 @@
         <entry>Loca</entry>
         <entry>loca</entry>
         <entry>title</entry>
+        <entry>mDateSetListener</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
