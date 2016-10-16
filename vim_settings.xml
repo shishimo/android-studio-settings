@@ -295,10 +295,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1476547310282">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1476581077022">
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+        <mark key="^" line="37" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/SettingsFragment.java" timestamp="1474201186774">
         <mark key="'" line="148" column="14" />
@@ -668,11 +669,11 @@
       <jump line="49" column="16" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0K</text>
+      <register name="&quot;" type="4">
+        <text>messaging</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>messaging</text>
       </register>
       <register name="/" type="4">
         <text>appcompat</text>
