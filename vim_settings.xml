@@ -236,11 +236,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/DatePickerDialog/app/src/main/res/values/styles.xml" timestamp="1476547228901">
         <mark key="[" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/arrays.xml" timestamp="1476587892160">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/arrays.xml" timestamp="1476626319326">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/MessageView.java" timestamp="1472968324440">
         <mark key="'" line="46" column="17" />
@@ -439,12 +439,12 @@
         <mark key="." line="37" column="57" />
         <mark key="^" line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476588668061">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476626375541">
         <mark key="'" line="102" column="20" />
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="39" column="31" />
+        <mark key="[" line="185" column="71" />
+        <mark key="]" line="185" column="72" />
+        <mark key="^" line="185" column="72" />
+        <mark key="." line="185" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1476547320227">
         <mark key="'" line="7" column="17" />
@@ -579,20 +579,18 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1476587952846">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="106" column="35" />
-        <mark key="]" line="106" column="37" />
-        <mark key="." line="106" column="37" />
-        <mark key="^" line="106" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" timestamp="1476626171987">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="44" column="55" />
+        <mark key="." line="46" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1474779861757">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
-      <jump line="13" column="32" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="67" column="21" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="47" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="55" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
@@ -691,61 +689,62 @@
       <jump line="109" column="35" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="68" column="35" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="98" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRWRpdFRleHQgbUhlaWdodEVkaXRUZXh0OwogICAgcHJpdmF0ZSBFZGl0VGV4dCBtSGVpZ2h0VW5pdEVkaXRUZXh0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>BirthdayEditText</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>number</text>
+        <text>prompt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRWRpdFRleHQgbUhlaWdodEVkaXRUZXh0OwogICAgcHJpdmF0ZSBFZGl0VGV4dCBtSGVpZ2h0VW5pdEVkaXRUZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUhlaWdodFVuaXRFZGl0VGV4dC5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5oZWlnaHRfdW5pdF9jbSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0icG9zaXRpb25fYXJyYXkiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJub25lIgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvbXB0X2JvZHlfdHlwZSI+U2VsZWN0IHlvdXIgYm9keSB0eXBlLjwvc3RyaW5nPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJudW1iZXJTaWduZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlNISVNISU1PIiwgIlNlbGVjdGVkIEl0ZW06IiArIGJvZHlUeXBlW3doaWNoXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbXM9IjEwIgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbXM9IjEwIgo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZW1zPSIxMCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmctYXJyYXkgbmFtZT0icG9zaXRpb25fYXJyYXkiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iQHN0cmluZy9wcm9tcHRfaGVpZ2h0X3VuaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJub25lIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvbXB0X2hlaWdodF91bml0Ij48L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJudW1iZXJTaWduZWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>number</last-search>
+      <last-search>prompt</last-search>
       <last-offset />
-      <last-pattern>number</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>prompt</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Intent</entry>
         <entry>Loading</entry>
         <entry>Profile</entry>
         <entry>Strike</entry>
@@ -765,6 +764,7 @@
         <entry>ems</entry>
         <entry>heightUnit</entry>
         <entry>number</entry>
+        <entry>prompt</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
