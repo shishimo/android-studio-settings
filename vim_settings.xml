@@ -52,12 +52,6 @@
         <mark key="^" line="117" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" timestamp="1476545695662">
-        <mark key="'" line="71" column="31" />
-        <mark key="]" line="57" column="13" />
-        <mark key="." line="57" column="13" />
-        <mark key="^" line="57" column="13" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_tutorial.xml" timestamp="1476547601980">
         <mark key="^" line="12" column="9" />
       </file>
@@ -186,12 +180,12 @@
         <mark key="." line="6" column="74" />
         <mark key="^" line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" timestamp="1476629428025">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="39" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/TutorialFagmentPagerAdapter.java" timestamp="1476678665339">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/message_shape_left.xml" timestamp="1474784401162">
         <mark key="'" line="0" column="10" />
@@ -276,7 +270,7 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialNotificationFragment.java" timestamp="1476021233551">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/TutorialNotificationFragment.java" timestamp="1476678791645">
         <mark key="'" line="47" column="52" />
         <mark key="[" line="69" column="86" />
         <mark key="]" line="69" column="90" />
@@ -305,12 +299,12 @@
         <mark key="^" line="73" column="48" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" timestamp="1476678452843">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" timestamp="1476679295965">
         <mark key="'" line="71" column="16" />
-        <mark key="[" line="131" column="65" />
-        <mark key="]" line="131" column="66" />
-        <mark key="^" line="131" column="66" />
-        <mark key="." line="131" column="66" />
+        <mark key="[" line="107" column="50" />
+        <mark key="]" line="107" column="51" />
+        <mark key="^" line="107" column="51" />
+        <mark key="." line="107" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Banner/app/src/main/res/values/strings.xml" timestamp="1472133080087">
         <mark key="[" line="1" column="43" />
@@ -434,12 +428,11 @@
         <mark key="^" line="57" column="4" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" timestamp="1476629708557">
-        <mark key="'" line="44" column="28" />
-        <mark key="[" line="145" column="27" />
-        <mark key="]" line="145" column="38" />
-        <mark key="." line="145" column="38" />
-        <mark key="^" line="145" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" timestamp="1476679203691">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="43" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/drawable/circle_button.xml" timestamp="1474242693526">
         <mark key="[" line="0" column="38" />
@@ -447,12 +440,12 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/PostProfileFragment.java" timestamp="1476629649928">
-        <mark key="'" line="77" column="15" />
-        <mark key="[" line="84" column="38" />
-        <mark key="]" line="84" column="38" />
-        <mark key="^" line="84" column="18" />
-        <mark key="." line="84" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/PostProfileFragment.java" timestamp="1476679183638">
+        <mark key="'" line="106" column="6" />
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="74" column="50" />
+        <mark key="^" line="74" column="50" />
+        <mark key="." line="74" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build.gradle" timestamp="1476581077022">
         <mark key="[" line="37" column="56" />
@@ -460,18 +453,19 @@
         <mark key="." line="37" column="57" />
         <mark key="^" line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476629611297">
-        <mark key="'" line="185" column="12" />
-        <mark key="[" line="185" column="71" />
-        <mark key="]" line="185" column="72" />
-        <mark key="^" line="185" column="72" />
-        <mark key="." line="185" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" timestamp="1476679082146">
+        <mark key="'" line="262" column="5" />
+        <mark key="[" line="215" column="34" />
+        <mark key="]" line="215" column="59" />
+        <mark key="^" line="215" column="59" />
+        <mark key="." line="215" column="59" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1476629825843">
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" timestamp="1476678567191">
         <mark key="'" line="33" column="11" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="83" column="39" />
+        <mark key="." line="83" column="39" />
+        <mark key="^" line="83" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/adapter/MessageAdapter.java" timestamp="1472984340626">
         <mark key="'" line="39" column="23" />
@@ -558,12 +552,12 @@
         <mark key="^" line="64" column="4" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" timestamp="1476588098547">
-        <mark key="'" line="68" column="35" />
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="68" column="40" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="68" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" timestamp="1476679282909">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="187" column="24" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/LoadingView.java" timestamp="1470911688343">
         <mark key="'" line="14" column="13" />
@@ -612,27 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="84" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="70" column="25" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" />
-      <jump line="88" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="11" column="25" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="13" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="7" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/styles.xml" />
-      <jump line="74" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" />
-      <jump line="67" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" />
-      <jump line="46" column="24" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_location.xml" />
-      <jump line="23" column="19" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout-v23/fragment_tutorial_location.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout-v23/fragment_tutorial_location.xml" />
-      <jump line="63" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_tutorial_notification.xml" />
-      <jump line="72" column="15" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
-      <jump line="66" column="26" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
-      <jump line="45" column="60" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" />
-      <jump line="67" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" />
-      <jump line="7" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" />
-      <jump line="73" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/AndroidManifest.xml" />
       <jump line="71" column="31" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_profile.xml" />
       <jump line="20" column="10" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/activity_tutorial.xml" />
       <jump line="80" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
@@ -648,12 +621,8 @@
       <jump line="135" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="88" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="143" column="26" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="12" column="30" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="33" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="80" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="5" column="19" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="18" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="26" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="34" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="41" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="64" column="27" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
@@ -712,61 +681,85 @@
       <jump line="86" column="34" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" />
       <jump line="74" column="43" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" />
       <jump line="71" column="16" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" />
+      <jump line="107" column="23" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="132" column="16" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="134" column="20" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
+      <jump line="215" column="28" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="262" column="5" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
+      <jump line="189" column="24" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="10" column="9" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="11" column="9" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="12" column="9" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="16" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="17" column="24" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="18" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="19" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="20" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="21" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="22" column="13" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="25" column="28" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="26" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="27" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="29" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="30" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="33" column="17" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
+      <jump line="46" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/activity/TutorialActivity.java" />
+      <jump line="79" column="6" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/PostProfileFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kcm9pZDppZD0iQCtpZC9wYXNzd29yZFRleHRWaWV3Ii8+</text>
+        <text encoding="base64">YW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIgLz4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kcm9pZDppZD0iQCtpZC9wYXNzd29yZFRleHRWaWV3Ii8+</text>
+        <text encoding="base64">YW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIgLz4=</text>
       </register>
       <register name="/" type="4">
-        <text>prompt_password</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iOGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvdHV0b3JpYWxfcG9zdF9wcm9maWxlX3Bhc3N3b3JkIgogICAgICAgICAgICBzdHlsZT0iQHN0eWxlL0J1ZGR5LlR1dG9yaWFsLk1lc3NhZ2UuVGV4dEFwcGVhcmFuY2UiCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcGFzc3dvcmRUZXh0VmlldyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2VyLnNldEN1cnJlbnRJdGVtKDMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YWxsb3dVbmRvPSJmYWxzZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9InRydWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQnVkZHkuVHV0b3JpYWwuQnV0dG9uLkFsbG93Igo=</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2VyLnNldEN1cnJlbnRJdGVtKDIsIHRydWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iNjUiCg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2VyLnNldEN1cnJlbnRJdGVtKDIsIHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9idXR0b25fYWxsb3ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX3R1dG9yaWFsX25vdGlmaWNhdGlvbl9hbGxvdyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prompt_password</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>prompt_password</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>play-services</entry>
         <entry>gcm</entry>
         <entry>location</entry>
         <entry>Loca</entry>
@@ -786,6 +779,7 @@
         <entry>prompt_email</entry>
         <entry>button</entry>
         <entry>prompt_password</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
