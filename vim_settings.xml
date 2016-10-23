@@ -80,6 +80,13 @@
         <mark key="." line="75" column="49" />
         <mark key="^" line="75" column="49" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/AndroidManifest.xml" timestamp="1477214788712">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="75" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="4" column="75" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/view/RecyclerViewDecoration.java" timestamp="1470883137798">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="17" column="25" />
@@ -314,12 +321,12 @@
         <mark key="^" line="73" column="48" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" timestamp="1477211689887">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="61" column="17" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="61" column="17" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" timestamp="1477215338980">
+        <mark key="'" line="30" column="16" />
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" timestamp="1476679295965">
         <mark key="'" line="71" column="16" />
@@ -634,14 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="11" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="138" column="14" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="129" column="74" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
-      <jump line="47" column="4" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
-      <jump line="176" column="8" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/java/es/sevenwish/buddy/fragment/CreateProfileFragment.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="108" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="130" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="120" column="40" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="161" column="36" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="63" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
@@ -734,13 +733,21 @@
       <jump line="14" column="24" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
       <jump line="45" column="30" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
       <jump line="49" column="0" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="87" column="9" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="96" column="38" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/AndroidManifest.xml" />
+      <jump line="70" column="37" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="151" column="30" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="30" column="16" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imageView1</text>
+        <text>(Activity)context,</text>
       </register>
       <register name="-" type="4">
-        <text>imageView1</text>
+        <text>(Activity)context,</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -749,31 +756,31 @@
         <text encoding="base64">ICAgICAgICBtSW1hZ2VWaWV3ID0gKEltYWdlVmlldylmaW5kVmlld0J5SWQoUi5pZC5pbWFnZVZpZXcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRm9yIGV4YW1wbGUgaWYgdGhlIHVzZXIgaGFzIHByZXZpb3VzbHkgZGVuaWVkIHRoZSBwZXJtaXNzaW9uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIHRoZSB1c2VyIHdvdWxkIGJlbmVmaXQgZnJvbSBhZGRpdGlvbmFsIGNvbnRleHQgZm9yIHRoZSB1c2Ugb2YgdGhlIHBlcm1pc3Npb24uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJvdmlkZSBhbiBhZGRpdGlvbmFsIHJhdGlvbmFsZSB0byB0aGUgdXNlciBpZiB0aGUgcGVybWlzc2lvbiB3YXMgbm90IGdyYW50ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZURpciA9IG5ldyBGaWxlKEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZVB1YmxpY0RpcmVjdG9yeShFbnZpcm9ubWVudC5ESVJFQ1RPUllfUElDVFVSRVMpLCAibXlQaG90byIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG93RGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75YOP44KS6Kit5a6aCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW1hZ2VWaWV3IGltYWdlVmlldyA9IChJbWFnZVZpZXcpZmluZFZpZXdCeUlkKFIuaWQuaW1hZ2VWaWV3KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
