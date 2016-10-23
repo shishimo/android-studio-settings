@@ -321,12 +321,12 @@
         <mark key="^" line="73" column="48" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" timestamp="1477215338980">
-        <mark key="'" line="30" column="16" />
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" timestamp="1477215784916">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="142" column="28" />
+        <mark key="]" line="142" column="38" />
+        <mark key="." line="142" column="38" />
+        <mark key="^" line="142" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_post_profile.xml" timestamp="1476679295965">
         <mark key="'" line="71" column="16" />
@@ -641,10 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="40" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="161" column="36" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
-      <jump line="63" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/values/strings.xml" />
       <jump line="147" column="12" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
       <jump line="109" column="35" filename="$USER_HOME$/AndroidStudioProjects/buddy-android/app/src/main/res/layout/fragment_create_profile.xml" />
@@ -741,55 +737,59 @@
       <jump line="70" column="37" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
       <jump line="151" column="30" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
       <jump line="30" column="16" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="152" column="63" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="138" column="38" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/AndroidStudioProjects/ImageSelector/app/src/main/java/com/shishimo/imageselector/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(Activity)context,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUltZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(Activity)context,</text>
+        <text>requestPermission</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtSW1hZ2VWaWV3ID0gKEltYWdlVmlldylmaW5kVmlld0J5SWQoUi5pZC5pbWFnZVZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJTSElTSElNTyIsICJDYW5jZWxlZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUltZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRm9yIGV4YW1wbGUgaWYgdGhlIHVzZXIgaGFzIHByZXZpb3VzbHkgZGVuaWVkIHRoZSBwZXJtaXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIHRoZSB1c2VyIHdvdWxkIGJlbmVmaXQgZnJvbSBhZGRpdGlvbmFsIGNvbnRleHQgZm9yIHRoZSB1c2Ugb2YgdGhlIHBlcm1pc3Npb24uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJvdmlkZSBhbiBhZGRpdGlvbmFsIHJhdGlvbmFsZSB0byB0aGUgdXNlciBpZiB0aGUgcGVybWlzc2lvbiB3YXMgbm90IGdyYW50ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRm9yIGV4YW1wbGUgaWYgdGhlIHVzZXIgaGFzIHByZXZpb3VzbHkgZGVuaWVkIHRoZSBwZXJtaXNzaW9uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZURpciA9IG5ldyBGaWxlKEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZVB1YmxpY0RpcmVjdG9yeShFbnZpcm9ubWVudC5ESVJFQ1RPUllfUElDVFVSRVMpLCAibXlQaG90byIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIHRoZSB1c2VyIHdvdWxkIGJlbmVmaXQgZnJvbSBhZGRpdGlvbmFsIGNvbnRleHQgZm9yIHRoZSB1c2Ugb2YgdGhlIHBlcm1pc3Npb24uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJvdmlkZSBhbiBhZGRpdGlvbmFsIHJhdGlvbmFsZSB0byB0aGUgdXNlciBpZiB0aGUgcGVybWlzc2lvbiB3YXMgbm90IGdyYW50ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75YOP44KS6Kit5a6aCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZURpciA9IG5ldyBGaWxlKEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZVB1YmxpY0RpcmVjdG9yeShFbnZpcm9ubWVudC5ESVJFQ1RPUllfUElDVFVSRVMpLCAibXlQaG90byIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW1hZ2VWaWV3IGltYWdlVmlldyA9IChJbWFnZVZpZXcpZmluZFZpZXdCeUlkKFIuaWQuaW1hZ2VWaWV3KTsK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g55S75YOP44KS6Kit5a6aCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -801,7 +801,6 @@
         <entry>mDateSetListener</entry>
         <entry>appcompat</entry>
         <entry>reqeust</entry>
-        <entry>request</entry>
         <entry>height</entry>
         <entry>ems</entry>
         <entry>heightUnit</entry>
@@ -815,6 +814,7 @@
         <entry>photo</entry>
         <entry>profile</entry>
         <entry>button</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
